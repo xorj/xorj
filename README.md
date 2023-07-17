@@ -7,5 +7,6 @@ Atualmente sou desenvolverdor Web no LAIS (Laboratório de Inovação Tecnológi
 
 
 <p style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xorj&theme=radical&line_height=22">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xorj&layout=compact&langs_count=7&theme=radical"/>
 </p>
