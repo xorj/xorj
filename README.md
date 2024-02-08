@@ -1,6 +1,6 @@
-Desenvolvedor de software familiar com Vue.js e React.js
+Desenvolvedor de software familiar com Vue.js, React.js, Django e outras libs.
 
-Atualmente sou desenvolverdor Web no LAIS (Laboratório de Inovação Tecnológica em Saúde)
+Atualmente sou SDE Intern @ Amazon
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorge-vinicius-lourenco/)
 
